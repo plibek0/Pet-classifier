@@ -1,0 +1,23 @@
+# Dataset (downloaded automatically by torchvision)
+data/
+augmented_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments / IDE
+.venv/
+venv/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary checkpoints (model.pth itself is kept)
+checkpoints/
+*.tmp
