@@ -1,4 +1,4 @@
-# Oxford-IIIT Pet Breed Classification (IMLO Coursework 2025/26)
+# Oxford-IIIT Pet Breed Classification 
 
 A convolutional neural network trained **from scratch** (no pretrained weights) to classify images
 from the [Oxford-IIIT Pet dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) into 37 cat and dog breeds.
